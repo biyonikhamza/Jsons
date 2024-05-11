@@ -26,53 +26,91 @@
     {
         "carbonFoot": "Chopart Plus Carbon Foot",
         "prostheticFoot": "Syme Foot",
-        "kneeJoints": "Modular Single Axis Knee Joint with Frictional Lock"
+        "kneeJoints": "Modular Single Axis Knee Joint with Frictional Lock",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
         "carbonFoot": "Sym Plus Carbon Foot",
         "prostheticFoot": "Pirogoff Foot",
-        "kneeJoints": "Polycentric Disarticulation Knee Joint"
+        "kneeJoints": "Polycentric Disarticulation Knee Joint",
+        "siliconeLiners": "FlexLiner Cushion Liner"
     },
     {
         "carbonFoot": "Rapidwalk Carbon Foot",
         "prostheticFoot": "Single Axis Foot with Shaped Ankle Part",
-        "kneeJoints": "Polycentric Disarticulation Knee Joint with Lock"
+        "kneeJoints": "Polycentric Disarticulation Knee Joint with Lock",
+        "siliconeLiners": "FlexComfort Locking Cushion Liner"
     },
     {
-        "kneeJoints": "Lightweight Knee Joint",
-        "prostheticFoot": "Dynamic Foot for Children"
+        "carbonFoot": "Rapidwalk Carbon Foot",
+        "prostheticFoot": "Dynamic Foot for Children",
+        "kneeJoints": "Polycentric Disarticulation Knee Joint",
+        "siliconeLiners": "FlexLiner Cushion Liner"
     },
     {
-        "kneeJoints": "Lightweight Knee Joint with Lock"
+        "carbonFoot": "Doha Carbon Foot",
+        "prostheticFoot": "Dynamic Foot",
+        "kneeJoints": "Single Axis Knee Joint with Lock",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
-        "kneeJoints": "Polycentric Knee Joint"   
+        "carbonFoot": "Syme Carbon Foot",
+        "prostheticFoot": "Dynamic Foot for Children",
+        "kneeJoints": "Polycentric Knee Joint",
+        "siliconeLiners": "FlexComfort Locking Cushion Liner"
     },
     {
-        "kneeJoints": "Polycentric Knee Joint with lock"
+        "carbonFoot": "Syme Carbon Foot",
+        "prostheticFoot": "Sach Foot",
+        "kneeJoints": "Polycentric Knee Joint with Lock",
+        "siliconeLiners": "FlexComfort C Cushion Liner"
     },
     {
-        "kneeJoints": "Disarticulation Polycentric Knee Joint"
+        "carbonFoot": "Chopart Plus Carbon Foot",
+        "prostheticFoot": "Single Axis Foot",
+        "kneeJoints": "Single Axis Knee Joint",
+        "siliconeLiners": "FlexLiner Cushion Liner"
     },
     {
-        "kneeJoints": "Disarticulation Polycentric Knee Joint with Lock"
+        "carbonFoot": "Sym Plus Carbon Foot",
+        "prostheticFoot": "Dynamic Foot",
+        "kneeJoints": "Single Axis Knee Joint with Lock",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
-        "kneeJoints": "Pneumatic Knee Joint"
+        "carbonFoot": "Doha Carbon Foot",
+        "carbonFoot": "Chopart Plus Carbon Foot",
+        "prostheticFoot": "Syme Foot",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
-        "kneeJoints": "Pneumatic Knee Joint with Frictional Lock"
+        "carbonFoot": "Syme Carbon Foot",
+        "prostheticFoot": "Dynamic Foot",
+        "kneeJoints": "Single Axis Knee Joint with Lock",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
-        "kneeJoints": "Monocentric Knee Joint with Lock"
+        "carbonFoot": "Chopart Plus Carbon Foot",
+        "prostheticFoot": "Syme Foot",
+        "kneeJoints": "Monocentric Knee Joint with Lock",
+        "siliconeLiners": "Silicone Sleeve"
     },
     {
-        "kneeJoints": "Modular Single Axis Knee Joint for Children"
+        "carbonFoot": "Chopart Plus Carbon Foot",
+        "prostheticFoot": "Sach Foot",
+        "kneeJoints": "Polycentric Knee Joint with Lock",
+        "siliconeLiners": "FlexComfort C Cushion Liner"
     },
     {
-        "kneeJoints": "Single Axis Knee Joint for Children"
+        "carbonFoot": "Rapidwalk Carbon Foot",
+        "prostheticFoot": "Dynamic Foot for Children",
+        "kneeJoints": "Polycentric Disarticulation Knee Joint",
+        "siliconeLiners": "FlexLiner Cushion Liner"
     },
     {
-        "kneeJoints": "Hydraulic Knee Joint"
+        "carbonFoot": "Kule Carbon Foot",
+        "prostheticFoot": "Single Axis Foot",
+        "kneeJoints": "Single Axis Knee Joint",
+        "siliconeLiners": "FlexLiner Cushion Liner"
     }
 ]
