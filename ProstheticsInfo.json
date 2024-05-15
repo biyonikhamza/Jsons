@@ -5,7 +5,6 @@
         "kneeJoints": "Polycentric Knee Joint",
         "siliconeLiners": "FlexComfort C Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
-
     },
     {
         "carbonFoot": "Doha Carbon Foot",
@@ -48,7 +47,6 @@
         "kneeJoints": "Polycentric Disarticulation Knee Joint with Lock",
         "siliconeLiners": "FlexComfort Locking Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
-
     },
     {
         "carbonFoot": "Rapidwalk Carbon Foot",
@@ -56,7 +54,6 @@
         "kneeJoints": "Polycentric Disarticulation Knee Joint",
         "siliconeLiners": "FlexLiner Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image2.jpg"
-
     },
     {
         "carbonFoot": "Doha Carbon Foot",
@@ -64,7 +61,6 @@
         "kneeJoints": "Single Axis Knee Joint with Lock",
         "siliconeLiners": "Silicone Sleeve",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
-
     },
     {
         "carbonFoot": "Syme Carbon Foot",
@@ -72,7 +68,6 @@
         "kneeJoints": "Polycentric Knee Joint",
         "siliconeLiners": "FlexComfort Locking Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
-
     },
     {
         "carbonFoot": "Syme Carbon Foot",
@@ -80,7 +75,6 @@
         "kneeJoints": "Polycentric Knee Joint with Lock",
         "siliconeLiners": "FlexComfort C Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
-
     },
     {
         "carbonFoot": "Chopart Plus Carbon Foot",
@@ -88,7 +82,6 @@
         "kneeJoints": "Single Axis Knee Joint",
         "siliconeLiners": "FlexLiner Cushion Liner",
         "image":"https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
-
     },
     {
         "carbonFoot": "Sym Plus Carbon Foot",
@@ -96,7 +89,6 @@
         "kneeJoints": "Single Axis Knee Joint with Lock",
         "siliconeLiners": "Silicone Sleeve",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
-
     },
     {
         "carbonFoot": "Doha Carbon Foot",
@@ -104,7 +96,6 @@
         "prostheticFoot": "Syme Foot",
         "siliconeLiners": "Silicone Sleeve",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
-
     },
     {
         "carbonFoot": "Syme Carbon Foot",
@@ -112,7 +103,6 @@
         "kneeJoints": "Single Axis Knee Joint with Lock",
         "siliconeLiners": "Silicone Sleeve",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
-
     },
     {
         "carbonFoot": "Chopart Plus Carbon Foot",
@@ -120,7 +110,6 @@
         "kneeJoints": "Monocentric Knee Joint with Lock",
         "siliconeLiners": "Silicone Sleeve",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
-
     },
     {
         "carbonFoot": "Chopart Plus Carbon Foot",
@@ -128,7 +117,6 @@
         "kneeJoints": "Polycentric Knee Joint with Lock",
         "siliconeLiners": "FlexComfort C Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
-
     },
     {
         "carbonFoot": "Rapidwalk Carbon Foot",
@@ -136,7 +124,6 @@
         "kneeJoints": "Polycentric Disarticulation Knee Joint",
         "siliconeLiners": "FlexLiner Cushion Liner",
         "image":"https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
-
     },
     {
         "carbonFoot": "Kule Carbon Foot",
@@ -144,6 +131,5 @@
         "kneeJoints": "Single Axis Knee Joint",
         "siliconeLiners": "FlexLiner Cushion Liner",
         "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
-
     }
 ]
