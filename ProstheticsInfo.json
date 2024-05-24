@@ -1,7 +1,6 @@
 {
     "prostheticsInfo": [
         {
-            "id" : 0,
             "carbonFoot": "Chopart Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Knee Joint",
@@ -9,7 +8,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
         },
         {
-            "id" : 1,
             "carbonFoot": "Doha Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -17,7 +15,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image2.jpg"
         },
         {
-            "id" : 2,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
@@ -25,7 +22,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
         },
         {
-            "id" : 3,
             "carbonFoot": "Kule Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -33,7 +29,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 4,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
             "kneeJoints": "Modular Single Axis Knee Joint with Frictional Lock",
@@ -41,7 +36,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 5,
             "carbonFoot": "Sym Plus Carbon Foot",
             "prostheticFoot": "Pirogoff Foot",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -49,7 +43,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image5.jpeg"
         },
         {
-            "id" : 6,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Single Axis Foot with Shaped Ankle Part",
             "kneeJoints": "Polycentric Disarticulation Knee Joint with Lock",
@@ -57,7 +50,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
         },
         {
-            "id" : 7,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -65,7 +57,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image2.jpg"
         },
         {
-            "id" : 8,
             "carbonFoot": "Doha Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -73,7 +64,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
         },
         {
-            "id" : 9,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Knee Joint",
@@ -81,7 +71,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 10,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -89,7 +78,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 11,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
@@ -97,7 +85,6 @@
             "image":"https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
         },
         {
-            "id" : 12,
             "carbonFoot": "Sym Plus Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -105,7 +92,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
         },
         {
-            "id" : 13,
             "carbonFoot": "Doha Carbon Foot",
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
@@ -113,7 +99,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
         },
         {
-            "id" : 14,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -121,7 +106,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 15,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
             "kneeJoints": "Monocentric Knee Joint with Lock",
@@ -129,7 +113,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image4.jpg"
         },
         {
-            "id" : 16,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -137,7 +120,6 @@
             "image": "https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image3.jpg"
         },
         {
-            "id" : 17,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -145,7 +127,6 @@
             "image":"https://raw.githubusercontent.com/biyonikhamza/Jsons/main/prosthetics/image1.png"
         },
         {
-            "id" : 18,
             "carbonFoot": "Kule Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
