@@ -1,7 +1,6 @@
 {
     "prostheticsInfo": [
         {
-            "id": 0,
             "carbonFoot": "Chopart Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Knee Joint",
@@ -10,7 +9,6 @@
             "word": "Yaşayan ölür , ölen fena bulur. Ne olacaksa olur."
         },
         {
-            "id": 1,
             "carbonFoot": "Doha Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -19,7 +17,6 @@
             "word": "Sevginin olduğu yerde , Allah (c.c) vardır ve Allah'ın (c.c) sevgisinin olduğu yerde mutluluk vardır."
         },
         {
-            "id": 2,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
@@ -28,7 +25,6 @@
             "word": "Eğitimli insan zihinsel becerilerini, başkalarının haklarını ihlal etmeden istediği her şeyi alabilecek şekilde geliştiren insandır."
         },
         {
-            "id": 3,
             "carbonFoot": "Kule Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -37,7 +33,6 @@
             "word": "Ölümle sonlanan hayatlarımızın ardında , yaşamın anlamını ve değerini yansıtan izler bırakarak, sonsuzluğa adım atmalıyız."
         },
         {
-            "id": 4,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
             "kneeJoints": "Modular Single Axis Knee Joint with Frictional Lock",
@@ -46,7 +41,6 @@
             "word": "Rabbimizin bize yazdığından başkası başımıza gelmez."
         },
         {
-            "id": 5,
             "carbonFoot": "Sym Plus Carbon Foot",
             "prostheticFoot": "Pirogoff Foot",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -55,7 +49,6 @@
             "word": "Beni yaratan yolumu elbet gösterir."
         },
         {
-            "id": 6,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Single Axis Foot with Shaped Ankle Part",
             "kneeJoints": "Polycentric Disarticulation Knee Joint with Lock",
@@ -64,7 +57,6 @@
             "word": "Eğitimli insan zihinsel becerilerini , başkalarının haklarını ihlal etmeden istediği her şeyi alabilecek şekilde geliştiren insandır."
         },
         {
-            "id": 7,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -73,7 +65,6 @@
             "word": "Herhangi bir duygunun heyecanıyla birleştirilen düşünceler , diğer benzeri veya ilintili düşünceleri çeken 'Mıknatıslı' bir güç oluşturur."
         },
         {
-            "id": 8,
             "carbonFoot": "Doha Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -82,7 +73,6 @@
             "word": "Zihnin bizim ona tanıdıklarımız dışında hiçbir sınırlaması yoktur."
         },
         {
-            "id": 9,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Knee Joint",
@@ -91,7 +81,6 @@
             "word": "En önemli şeyler sözcükler değil , eylemlerdir."
         },
         {
-            "id": 10,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -100,7 +89,6 @@
             "word": "Dünyaya ne yapmak istediğinizi söyleyin , ama önce yapın."
         },
         {
-            "id": 11,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
@@ -109,7 +97,6 @@
             "word": "Oyunun cesaret kırıcı değişikliklerinde bile hiçbir zaman yılmamak."
         },
         {
-            "id": 12,
             "carbonFoot": "Sym Plus Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -118,7 +105,6 @@
             "word": "Allah'a (c.c) iman edin. Size doğrusunu söyleyeyim , kim şu dağa kalk, denize atıl derse ve dediğinin olacağına inanırsa dileği yerine gelecektir."
         },
         {
-            "id": 13,
             "carbonFoot": "Doha Carbon Foot",
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
@@ -127,7 +113,6 @@
             "word": "Kendine güvenen iyimser ve işini başarı garantisiyle üstlenen bir adam , durumunu cazip hale getirir. Evrenin yapıcı güclerini kendi üstüne çeker."
         },
         {
-            "id": 14,
             "carbonFoot": "Syme Carbon Foot",
             "prostheticFoot": "Dynamic Foot",
             "kneeJoints": "Single Axis Knee Joint with Lock",
@@ -136,7 +121,6 @@
             "word": "Çubuğun üstüne kalbini at , vücudun seni izleyecektir."
         },
         {
-            "id": 15,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Syme Foot",
             "kneeJoints": "Monocentric Knee Joint with Lock",
@@ -145,7 +129,6 @@
             "word": "Kalbinizi gitmek istediğiniz ve olmak istediğiniz yerle doldurun."
         },
         {
-            "id": 16,
             "carbonFoot": "Chopart Plus Carbon Foot",
             "prostheticFoot": "Sach Foot",
             "kneeJoints": "Polycentric Knee Joint with Lock",
@@ -154,7 +137,6 @@
             "word": "Hayat, hayata herşeyini veren bir kişiden kendisini eirgemez."
         },
         {
-            "id": 17,
             "carbonFoot": "Rapidwalk Carbon Foot",
             "prostheticFoot": "Dynamic Foot for Children",
             "kneeJoints": "Polycentric Disarticulation Knee Joint",
@@ -163,7 +145,6 @@
             "word": "İnanın , inanın ki inanç dağları yerinden oynatsın."
         },
         {
-            "id": 18,
             "carbonFoot": "Kule Carbon Foot",
             "prostheticFoot": "Single Axis Foot",
             "kneeJoints": "Single Axis Knee Joint",
